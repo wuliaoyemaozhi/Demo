@@ -1,0 +1,18 @@
+https://github.com/wuliaoyemaozhi/Demo.git  //我的仓库地址
+
+git config --global user.name 'your name'
+
+git config --global user.email 'your email'
+
+git clone https://github.com/wuliaoyemaozhi/Demo.git //你的仓库地址
+
+cd  文件名 //例:Demo
+
+touch 文件 //例:demo.js 创建文件
+
+git add 文件 //例:demo.js 保存在暂存区
+
+git commit -m '描述' //文件的描述
+
+git push //上传文件
+
