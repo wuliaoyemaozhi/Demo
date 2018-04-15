@@ -1,18 +1,19 @@
-https://github.com/wuliaoyemaozhi/Demo.git  //ÎÒµÄ²Ö¿âµØÖ·
+https://github.com/wuliaoyemaozhi/Demo.git  //æˆ‘çš„ä»“åº“åœ°å€
 
 git config --global user.name 'your name'
 
 git config --global user.email 'your email'
 
-git clone https://github.com/wuliaoyemaozhi/Demo.git //ÄãµÄ²Ö¿âµØÖ·
+------------------ä¸Šé¢æ˜¯é…ç½®ï¼Œåªè¦ä¸€æ¬¡-----------------------
 
-cd  ÎÄ¼şÃû //Àı:Demo
+git clone https://github.com/wuliaoyemaozhi/Demo.git //ä½ çš„ä»“åº“åœ°å€
 
-touch ÎÄ¼ş //Àı:demo.js ´´½¨ÎÄ¼ş
+cd  æ–‡ä»¶å //ä¾‹:Demo
 
-git add ÎÄ¼ş //Àı:demo.js ±£´æÔÚÔİ´æÇø
+touch æ–‡ä»¶ //ä¾‹:demo.js åˆ›å»ºæ–‡ä»¶
 
-git commit -m 'ÃèÊö' //ÎÄ¼şµÄÃèÊö
+git add æ–‡ä»¶ //ä¾‹:demo.js ä¿å­˜åœ¨æš‚å­˜åŒº
 
-git push //ÉÏ´«ÎÄ¼ş
+git commit -m 'æè¿°' //æ–‡ä»¶çš„æè¿°
 
+git push //ä¸Šä¼ æ–‡ä»¶
